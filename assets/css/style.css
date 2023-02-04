@@ -1,0 +1,53 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    background-color: #000;
+}
+.header {
+    padding: 20px;
+}
+.header img {
+    float: right;
+    height: 50px;
+    margin-top: -15px;
+}
+.header a:link {
+    padding: 20px;
+    color: #080;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.header a:hover, .header a:active {
+    opacity: 0.8;
+}
+.header hr {
+    margin-top: 20px;
+    border-color: #080;
+}
+.body {
+    color: #080;
+    padding: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
+body h1 {
+    font-size: 36px;
+}
+.body hr {
+    width: 50px;
+    border-color: #080;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.body p {
+    padding: 2px;
+}
+.body img {
+    width: 800px;
+    height: 500px;
+}
+.body .os {
+    font-size: 25px;
+}
